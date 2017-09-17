@@ -29,8 +29,15 @@ I'm still learning python, there are no unit tests, sorry.
 There is no support, fork/PR as you wish. 
 MIT license, so attribution is mandatory.
 
+- CVE-2017-0785
+- CVE-2017-0781
+- CVE-2017-0782
+- CVE-2017-0783
+- https://www.youtube.com/watch?v=Az-l90RCns8
+
 ## References
 
+- https://www.armis.com/blueborne/
 - https://www.youtube.com/watch?v=KiNr1kXAh-A
 - https://pastebin.com/raw/RhN6mkqd
 - https://github.com/terry2012/BlueBorneVulnScanner
@@ -39,3 +46,4 @@ MIT license, so attribution is mandatory.
 - https://networkengineering.stackexchange.com/questions/36843/do-bluetooth-devices-have-mac-address-with-the-same-specification-as-the-mac-add/36846
 - https://stackoverflow.com/questions/663171/is-there-a-way-to-substring-a-string-in-python
 - https://stackoverflow.com/questions/3765533/python-array-with-string-indices
+- https://stackoverflow.com/questions/9244909/python-conditional-string-formatting
