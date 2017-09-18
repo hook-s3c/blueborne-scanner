@@ -1,4 +1,4 @@
-# VPN Gate auto-grabber
+# Blueborne Android Scanner 
 
 ## Greetz
 

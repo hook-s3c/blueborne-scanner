@@ -48,7 +48,7 @@ if __name__=="__main__":
         print ("    _    (^)                             ")
         print ("   (_\   |_|                             ")
         print ("    \_\  |_|                             ")
-        print ("    _\_\,/_|                             ")
+        print ("    _\_\,/_| ap0r                        ")
         print ("   (`\(_|`\|                             ")
         print ("  (`\,)  \ \'                            ")
         print ("   \,)   | |                             ")
